@@ -1,8 +1,9 @@
 ### Engenharia Mecatrônica no triângulo mineiro!
-Interesses: <br/>
+Interests: <br/>
 :cyclone: DevOps <br/>
 :dna: Machine Learning <br/>
 :shield: Security <br/>
+:zap: Electronics
 
 
 <img src="https://github.com/chydrue/chydrue/blob/main/cat.jpg" width="400" heigth="550">
