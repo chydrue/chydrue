@@ -1,4 +1,11 @@
-### Hi there 👋
+### Engenharia Mecatrônica no triângulo mineiro!
+Interesses: <br/>
+:cyclone: DevOps <br/>
+:dna: Machine Learning <br/>
+:shield: Security <br/>
+
+
+<img src="https://github.com/chydrue/chydrue/blob/main/cat.jpg" width="400" heigth="550">
 
 <!--
 **chydrue/chydrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
